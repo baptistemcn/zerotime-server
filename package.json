@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/baptistemcn/zerotime-server/issues"
   },
-  "homepage": "https://github.com/baptistemcn/zerotime-server#readme"
+  "homepage": "https://github.com/baptistemcn/zerotime-server#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
 }
