@@ -1,0 +1,19 @@
+{
+  "name": "zerotime-server",
+  "version": "0.0.1",
+  "description": "Zero Time Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baptistemcn/zerotime-server.git"
+  },
+  "author": "Baptiste Marcon <baptistemcn@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baptistemcn/zerotime-server/issues"
+  },
+  "homepage": "https://github.com/baptistemcn/zerotime-server#readme"
+}
